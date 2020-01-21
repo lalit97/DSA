@@ -2,8 +2,6 @@
 made with help of 
 https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/
 
-and 
-Siddhesh Suthar
 '''
 from math import floor as f
 
