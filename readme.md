@@ -5,10 +5,9 @@
 ## Main
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-
 - [Cracking The Coding Interview](http://www.crackingthecodinginterview.com/)
-
 - [Hackerrank Playlist](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
+- [MyCodeSchool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 
 ## Topic Wise
@@ -59,11 +58,6 @@
 - [GeeksforGeeks Must Do](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
 - [GeeksforGeeks Practice](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
-
-
-## Additional Resources
-
-- [MyCodeSchool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 
 ## My Profiles 
